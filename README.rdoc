@@ -1,7 +1,8 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Startup launch with a landing page where we build a site (front-end only) of our
+web apps that our start-up has/will build for marketing purposes.
+https://uberech.herokuapp.com/
 
 Things you may want to cover:
 
