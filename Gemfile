@@ -5,6 +5,8 @@ source 'https://rubygems.org'
 gem 'rails', '4.2.5'
 # Use Bootstrap library for styles
 gem 'bootstrap-sass', '~>3.3.4.1'
+# Use Fontawesome library for icons
+gem "font-awesome-rails"
 gem 'autoprefixer-rails', '~>5.2.0'
 # Use devise for authentication
 gem 'devise', '~>3.5.1'
