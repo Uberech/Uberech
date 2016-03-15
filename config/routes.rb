@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'contacts/new'
+
   root 'pages#home'
   get 'about' => 'pages#about'
   get 'products' => 'pages#products'
