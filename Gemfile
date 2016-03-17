@@ -15,6 +15,7 @@ gem 'devise-bootstrap-views'
 gem 'stripe'
 # Use figaro to hide secret keys
 gem 'figaro'
+gem 'therubyracer'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
