@@ -4,7 +4,7 @@ source 'https://rubygems.org'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.5'
 # Use Bootstrap library for styles
-gem 'bootstrap-sass', '~>3.3.4.1'
+gem 'twitter-bootstrap-rails'
 # Use Fontawesome library for icons
 gem "font-awesome-rails"
 gem 'autoprefixer-rails', '~>5.2.0'
