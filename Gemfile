@@ -15,6 +15,8 @@ gem 'devise-bootstrap-views'
 gem 'stripe'
 # Use figaro to hide secret keys
 gem 'figaro'
+# Use paperclip for image uploads
+gem 'paperclip'
 gem 'therubyracer'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
