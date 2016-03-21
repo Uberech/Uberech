@@ -1,6 +1,5 @@
-<div class="jumbotron text-center">
-   <h1>Welcome to Uberech</h1>
-   <h3>A description about our startup</h3>
+<div class="jumbotron">
+   
 </div>
 <div class="row">
    <% if user_signed_in? %>
@@ -20,7 +19,7 @@
       <div class="well">
          <h2 class="text-center">The Community</h2>
          <p>Visit the Uberech community to meet other developers, entrepreneurs and investors!</p>
-         <%= link_to "Visit the Community", "#", class: 'btn btn-default btn-lg btn-block' %>
+         <%= link_to "Visit the Community", users_path, class: 'btn btn-default btn-lg btn-block' %>
       </div>
    </div>
    <% else %>
