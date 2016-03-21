@@ -3,14 +3,19 @@
 
 body {
     // Gradient from http://uigradients.com/#
-background: #403B4A; /* fallback for old browsers */
-background: -webkit-linear-gradient(to left, #403B4A , #E7E9BB); /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to left, #403B4A , #E7E9BB); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-        
+    background: #4CA1AF; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #4CA1AF , #C4E0E5); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #4CA1AF , #C4E0E5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .alert-notice {
     color: #8a6d3b;
     background-color: #fcf8e3;
     border-color: #faebcc;
+}
+
+.jumbotron {
+    background-image: asset-url('JumbotronMain1.png');
+    background-size: cover;
+    height: 425px;
 }
