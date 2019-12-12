@@ -9,7 +9,7 @@ gem 'twitter-bootstrap-rails'
 gem "font-awesome-rails"
 gem 'autoprefixer-rails', '~>5.2.0'
 # Use devise for authentication
-gem 'devise', '~>3.5.1'
+gem 'devise', '~>4.7.1'
 gem 'devise-bootstrap-views'
 # Use stripe for handling payments
 gem 'stripe'
